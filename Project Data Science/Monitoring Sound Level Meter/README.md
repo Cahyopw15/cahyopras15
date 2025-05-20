@@ -77,7 +77,6 @@ The sound level data was collected from a physical sound level meter device capa
 
 2. ```bash
    cd CahyoPrasetiyoWibowo-Project-Portfolio/Project Data Science/Monitoring Sound Level Meter
-3. ```bash
-   pip install -r requirements.txt
+3. pip install -r requirements.txt
 4. ```bash
-   jupyter notebook monitoring_sound_level_analysis.ipynb
+   jupyter notebook app.py
