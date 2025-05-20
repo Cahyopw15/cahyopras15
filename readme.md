@@ -7,7 +7,6 @@ As an aspiring Data Scientist with a strong passion for Python programming, I am
 - 🌍  I'm based in Bandar Lampung
 - 🖥️  See my portfolio at [Project Portfolio](https://github.com/Cahyopw15/CahyoPrasetiyoWibowo-Project-Portfolio/tree/main/Project%20Data%20Science)
 - ✉️  You can contact me at [cahyoprasetiyowibowo@gmail.com](mailto:cahyoprasetiyowibowo@gmail.com)
-- 🧠  I'm learning dibimbing.id
 
 ### Skills
 
