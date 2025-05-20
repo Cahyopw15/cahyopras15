@@ -1,83 +1,89 @@
-# 🏨 Hotel Booking Predict
+# 🏨 Hotel Booking Cancellation Prediction
 
-Proyek ini bertujuan untuk memprediksi pembatalan pemesanan hotel menggunakan pendekatan Data Science. Dengan menganalisis data pemesanan, karakteristik pelanggan, dan faktor lainnya, model prediktif dibangun untuk membantu hotel memahami pola perilaku pelanggan dan mengurangi pembatalan.
+This project aims to predict hotel booking cancellations using a data science approach. By analyzing booking details, customer characteristics, and other influencing factors, we build a predictive model to help hotels understand customer behavior patterns and reduce cancellations.
 
-## 📌 Link Penting
+## 📌 Important Links
 
-- 📓 Notebook Proyek: [Hotel Booking Predict](#)
+- 📓 Notebook: [Hotel Booking Predict](#)
 - 📊 Dataset: [Download Dataset](https://drive.google.com/file/d/1j0aV5LzB-3iBA__85rGNa_qZUwkLfMh4/view?usp=sharing)
 
 ---
 
 ## 🎯 Project Goals
 
-- Mengembangkan model prediksi pembatalan pemesanan hotel.
-- Mengidentifikasi faktor-faktor penting yang berkontribusi terhadap pembatalan.
-- Meningkatkan efisiensi operasional dan kepuasan pelanggan.
+- Build a machine learning model to predict booking cancellations.
+- Identify key factors contributing to cancellations.
+- Improve operational efficiency and customer satisfaction.
 
 ---
 
 ## 🧹 Data Cleaning
 
-- Kolom **company** dihapus karena missing values > 90%.
-- Kolom **agent** diisi dengan median karena distribusinya normal tanpa outlier.
-- Kolom **country** diisi dengan modus (mode).
-- Kolom **children** dikonversi ke tipe data integer.
-- Kolom **reservation_status_date** dikonversi ke datetime.
-- Encoding dilakukan untuk data kategorikal.
+- The **company** column was dropped due to >90% missing values.
+- The **agent** column was filled with the median (no outliers).
+- The **country** column was filled with the mode.
+- The **children** column was converted to integer type.
+- The **reservation_status_date** column was converted to datetime.
+- Categorical features were encoded.
 
 ---
 
 ## 📊 Exploratory Data Analysis (EDA)
 
-- **63.05%** pemesanan tidak dibatalkan, **36.95%** dibatalkan.
-- Rata-rata lama menginap: **3-3.5 malam** per hotel.
-- Kanal pemasaran paling efektif: **Online TA**.
-- Bulan pemesanan tertinggi: **Agustus**, **Juli**, dan **Mei**.
-- **Tipe pelanggan:** Transient memiliki tingkat pembatalan tertinggi.
+- **63.05%** of bookings were not canceled, while **36.95%** were canceled.
+- Average stay duration per hotel: **3 to 3.5 nights**.
+- Most effective marketing channel: **Online TA**.
+- Peak booking months: **August**, followed by **July** and **May**.
+- **Customer Type Insight**:
+  - **Transient**: most bookings, highest cancellations.
+  - **Group**: fewer bookings, lower cancellations.
 
 ---
 
 ## 🛠 Feature Engineering
 
-Fitur baru yang dibuat:
+Created new features:
 - `total_night`
 - `total_guests`
 - `lead_time_category`
 - `revenue_per_stay`
 - `is_mismatched_room`
 
-**Feature selection** menggunakan VIF dan korelasi, fitur dengan VIF tinggi (>5) dihapus atau digabung.
+**Feature selection** was done using VIF (Variance Inflation Factor) and correlation analysis. Features with VIF > 5 were dropped or merged.
 
 ---
 
 ## 🤖 Machine Learning
 
-- **Scaling** dan **SMOTE** untuk menangani data tidak seimbang.
-- Data dibagi menjadi training (70%) dan testing (30%).
-- Model yang digunakan:
+- Numerical features were scaled.
+- SMOTE was used to balance the dataset.
+- Data split: 70% training, 30% testing.
+- Models trained:
   - Logistic Regression
   - Decision Tree
-  - KNN
+  - K-Nearest Neighbors (KNN)
   - XGBoost
   - Random Forest (baseline)
 
 ---
 
-## 📈 Evaluation
+## 📈 Model Evaluation
 
-- **Random Forest** menghasilkan skor F1 tertinggi: **0.897**
-- **XGBoost** memberikan alternatif yang solid dengan F1-Score: **0.8969**
-- Recall terbaik juga dipegang oleh Random Forest dan XGBoost.
-- Fitur paling penting: `deposit_type`, `is_mismatched_room`, dan `required_car_parking_spaces`.
+- **Random Forest** achieved the best F1-Score: **0.897**
+- **XGBoost** was a close second with F1-Score: **0.8969**
+- Highest recall: Random Forest and XGBoost
+- Key features:
+  - `deposit_type`
+  - `is_mismatched_room`
+  - `required_car_parking_spaces`
 
 ---
 
 ## ✅ Recommendation
 
-- Gunakan **Random Forest** untuk performa terbaik secara keseluruhan.
-- Gunakan **XGBoost** bila fokus utama adalah mengurangi false positive.
-- Analisis lebih lanjut terhadap fitur penting direkomendasikan untuk pengambilan keputusan bisnis hotel.
+- Use **Random Forest** for best overall performance.
+- Use **XGBoost** if the goal is to reduce false positives.
+- Further analysis of key features is recommended to optimize hotel booking strategies.
 
 ---
 
@@ -87,6 +93,4 @@ Fitur baru yang dibuat:
 
 ---
 
-## 🙏 Terima Kasih!
-
-
+## 🙏 Thank You!
