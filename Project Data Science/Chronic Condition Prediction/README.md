@@ -1,63 +1,116 @@
-# Predicting the Risk Probability of Developing Chronic Medical Conditions from a Depression Dataset
-_Final Project for Data Science_
+# 🧠 Chronic Condition Prediction from Depression Data
 
-## 📜 Description 
-**Business Problem:**
-Healthcare providers face increasing challenges in managing the growing number of patients with chronic medical conditions. Prevention is more cost-effective than treatment, but identifying individuals at high risk before symptoms manifest is difficult due to the complex interplay of lifestyle, socio-economic, and genetic factors.
+This project focuses on predicting the risk of chronic medical conditions using depression-related data. By combining demographic, lifestyle, and health history information, we aim to identify high-risk individuals and design personalized intervention strategies.
 
-**The goal of this projects are:**
-Predict the likelihood of developing chronic medical conditions based on individual attributes
-Design personalized prevention strategies for high-risk individuals.  
+## 📌 Project Overview
 
-## 🛠️ Tools  
-- **Python**: Major programming languages.  
-- **Libraries**: Pandas, NumPy, Matplotlib, Seaborn, LabelEncoder, variance_inflation_factor, train_test_split,
-                 StandardScaler, accuracy_score, classification_report, confusion_matrix, make_scorer,
-                 LogisticRegression, DecisionTreeClassifier, RandomForestClassifier, XGBClassifier, KNeighborsClassifier,
-                 GaussianNB, GridSearchCV, cross_val_score  
-- **Jupyter Notebook**: For development and documentation of analysis.  
+- 📂 Dataset Source: [Kaggle - Depression Dataset](https://www.kaggle.com/datasets/anthonytherrien/depression-dataset/data)
 
-## 📂 Project Structure 
-- `Notebook Depresion Classifcation.ipynb`: The main notebook contains analysis and results.  
-- **Dataset**: Dataset used in the analysis https://www.kaggle.com/datasets/anthonytherrien/depression-dataset   
-- **Visualisasi**: Graphs to support data analysis.  
+---
 
-## 📊 Key Features  
-1. **Data Preprocessing**
-   - Data Understanding
-   - Data Cleaning
-   - Feature Engineering
-   - Feature Selection  
+## 🎯 Project Goals
 
-2. **Exploratory Data Analysis (EDA)**  
-   - Checking the distribution of target variable data "Chronic Medical Condition".
-   - Checking the distribution of Income against the target variable
-   - Checking the distrubution of Health Score against the target variable
+- Predict the likelihood of developing chronic medical conditions based on individual attributes.
+- Design personalized preventive strategies for high-risk individuals.
 
-3. **Data Visualization**  
-   - The distribution target variable to show unbalanced data with a total of 277561 for class 0, while for class 1 it has a total of 136207.
-     ![image](https://github.com/user-attachments/assets/2448c35f-21b3-49ef-a744-c5e021676eb5)
+---
 
-   - low income shows that there is a greater chance of being at risk of chronic medical conditions
-     ![image](https://github.com/user-attachments/assets/4e6aefd0-184d-453c-bd21-0d61eb793983)
+## 🧠 Dataset Summary
 
-   - Health score is very important in determining individuals who are affected by chronic medical conditions. At a score of 0, all individuals do not have chronic medical conditions, while at a score of 4, all individuals have chronic medical conditions, while at scores of 1, 2 and 3, only a few individuals have chronic medical conditions.
-     ![image](https://github.com/user-attachments/assets/18b781fe-5e48-4f63-8bdb-99a337379a76)
+- **Rows:** 413,768
+- **Columns:** 16
+- **Variable Types:**
+  - Demographics: Name, Age, Marital Status, Education Level
+  - Lifestyle: Alcohol Use, Smoking Status, Physical Activity, Diet, Sleep Patterns
+  - Socioeconomic: Income, Employment Status, Number of Children
+  - Health History: Mental Illness, Substance Abuse, Family Depression, Chronic Conditions
 
-4. **Recommendation**
+✅ No missing or duplicated data found.
 
-* Focus on Low-Income Segments
-    * Strategy:
-      Prioritize low-income individuals in prevention programs, such as providing subsidized or free healthcare services.
-    * Operational Recommendations:
-      Launch health education programs and regular check-ups for individuals from low-income groups.
-* Improve Health Scores through Preventive Programs
-    * Strategy:
-      Identify individuals with low health scores and offer data-based interventions, such as exercise programs, diets, or regular health check-ups.
-    * Operational Recommendations:
-      Establish partnerships with gyms, nutritionists, or health platforms to support customers in improving their health scores.
-* Promote a Healthy Lifestyle
-    * Strategy:
-      A healthy lifestyle campaign, such as reducing smoking and alcohol consumption, and increasing exercise.
-    * Operational Recommendations:
-      Hold healthy lifestyle seminars and workshops for the community. 
+---
+
+## 🛠 Feature Engineering
+
+- **Encoding:** Categorical features encoded using Label Encoder.
+- **New Features:**
+  - `age_category` → categorized into teens, adults, seniors.
+  - `lifestyle_score` → sum of lifestyle-related variables.
+  - `health_score` → sum of health history-related variables.
+- **Multicollinearity Check:** `lifestyle_score` had VIF = 6.59 but retained due to predictive value.
+- **Data Split:** 
+  - Train: 80%
+  - Validation: 10%
+  - Test: 10%
+- **Target Variable:** `chronic_medical_conditions`
+
+---
+
+## 📊 Exploratory Data Analysis (EDA)
+
+- **Target Class Imbalance:**  
+  - Class 0: 277,561  
+  - Class 1: 136,207
+- **Key Insights:**
+  - Low-income individuals have higher risk of chronic conditions.
+  - A `health_score` of 0 correlates with no chronic condition; a score of 4 correlates with full incidence.
+  - Mixed risk for scores 1–3, requiring further investigation.
+
+---
+
+## 🤖 Machine Learning Models
+
+Models Used:
+- Random Forest
+- Logistic Regression
+- Decision Tree
+- K-Nearest Neighbors (KNN)
+- XGBoost
+
+**Evaluation Techniques:**
+- Threshold tuning
+- Confusion matrix analysis
+- Hyperparameter tuning
+- Feature importance analysis
+
+---
+
+## 📈 Feature Importance
+
+Top contributing features:
+- **Income** → 66.30%
+- **Health Score** → 26.70%
+- **Lifestyle Score** → 2.97%
+
+---
+
+## ✅ Best Model
+
+- **Random Forest** showed the highest performance overall.
+- Balanced in accuracy, precision, recall, and F1-score.
+- Robust in handling class imbalance and capturing nonlinear relationships.
+
+---
+
+## 📌 Recommendations
+
+### 1. Target Low-Income Individuals
+- Offer subsidized/free preventive healthcare.
+- Provide regular health check-ups and education.
+
+### 2. Improve Health Scores via Preventive Programs
+- Personalized interventions for those with low health scores.
+- Collaborate with gyms, dietitians, and health platforms.
+
+### 3. Promote a Healthy Lifestyle
+- Campaigns to reduce smoking/alcohol and increase physical activity.
+- Organize health seminars and workshops for communities.
+
+---
+
+## 👤 Author
+
+**Cahyo Prasetiyo Wibowo**
+
+---
+
+## 🙏 Thank You!
