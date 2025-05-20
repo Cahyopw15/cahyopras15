@@ -4,7 +4,7 @@ This project aims to predict hotel booking cancellations using a data science ap
 
 ## 📌 Important Links
 
-- 📓 Notebook: [Hotel Booking Predict](#)
+- 📓 Notebook: [Hotel Booking Predict](https://github.com/Cahyopw15/CahyoPrasetiyoWibowo-Project-Portfolio/blob/main/Project%20Data%20Science/Hotel%20Booking%20Predict/notebook/Hotel%20Booking%20Predict.ipynb)
 - 📊 Dataset: [Download Dataset](https://drive.google.com/file/d/1j0aV5LzB-3iBA__85rGNa_qZUwkLfMh4/view?usp=sharing)
 
 ---
