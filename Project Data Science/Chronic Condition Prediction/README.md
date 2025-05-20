@@ -5,7 +5,7 @@ This project focuses on predicting the risk of chronic medical conditions using 
 ## 📌 Project Overview
 
 - 📂 Dataset Source: [Kaggle - Depression Dataset](https://www.kaggle.com/datasets/anthonytherrien/depression-dataset/data)
-- - 📓 Notebook: [Chronic Condition Prediction](https://github.com/Cahyopw15/CahyoPrasetiyoWibowo-Project-Portfolio/blob/main/Project%20Data%20Science/Chronic%20Condition%20Prediction/Notebook/Notebook%20Depresion%20Classifcation.ipynb)
+- 📓 Notebook: [Chronic Condition Prediction](https://github.com/Cahyopw15/CahyoPrasetiyoWibowo-Project-Portfolio/blob/main/Project%20Data%20Science/Chronic%20Condition%20Prediction/Notebook/Notebook%20Depresion%20Classifcation.ipynb)
 
 ---
 
