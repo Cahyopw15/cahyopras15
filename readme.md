@@ -1,47 +1,60 @@
-# Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)My name is Cahyo Prasetiyo Wibowo
+<h1 align="center">🚀 Cahyo Prasetiyo Wibowo's Project Portfolio</h1>
 
-## Data Scientist and Enthusiast of Python Programming From Indonesia
-
-As an aspiring Data Scientist with a strong passion for Python programming, I am highly motivated to explore the world of Data Science. I am particularly interested in areas such as data visualization, statistics, mathematics, and machine learning. I am always ready to take on challenges and committed to learning new things to continuously grow in this field.
-
-- 🌍  I'm based in Bandar Lampung
-- 🖥️  See my portfolio at [Project Portfolio](https://github.com/Cahyopw15/CahyoPrasetiyoWibowo-Project-Portfolio/tree/main/Project%20Data%20Science)
-- ✉️  You can contact me at [cahyoprasetiyowibowo@gmail.com](mailto:cahyoprasetiyowibowo@gmail.com)
-
-### Skills
-
-<p align="left">
-<a href="https://docs.microsoft.com/en-us/cpp/?view=msvc-170" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/cplusplus-colored.svg" width="36" height="36" alt="C++" /></a><a href="https://www.python.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/python-colored.svg" width="36" height="36" alt="Python" /></a><a href="https://docs.microsoft.com/en-us/cpp/?view=msvc-170" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/c-colored.svg" width="36" height="36" alt="C" /></a><a href="https://git-scm.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/git-colored.svg" width="36" height="36" alt="Git" /></a><a href="https://code.visualstudio.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/visualstudiocode.svg" width="36" height="36" alt="VS Code" /></a><a href="https://developer.mozilla.org/en-US/docs/Glossary/HTML5" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/html5-colored.svg" width="36" height="36" alt="HTML5" /></a><a href="https://www.w3.org/TR/CSS/#css" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/css3-colored.svg" width="36" height="36" alt="CSS3" /></a><a href="https://getbootstrap.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/bootstrap-colored.svg" width="36" height="36" alt="Bootstrap" /></a><a href="https://www.postgresql.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/postgresql-colored.svg" width="36" height="36" alt="PostgreSQL" /></a><a href="https://firebase.google.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/firebase-colored.svg" width="36" height="36" alt="Firebase" /></a><a href="https://supabase.io/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/supabase-colored.svg" width="36" height="36" alt="Supabase" /></a><a href="https://cloud.google.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/googlecloud-colored.svg" width="36" height="36" alt="Google Cloud" /></a><a href="https://wordpress.com" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/wordpress-colored.svg" width="36" height="36" alt="Wordpress" /></a><a href="https://store.arduino.cc/?gclid=Cj0KCQjw2eilBhCCARIsAG0Pf8uueBifykWcsSS4LPESeGQfxGVKJYnzV7bz471XfknQJy_1VINVWM8aAkLtEALw_wcB" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/arduino-colored.svg" width="36" height="36" alt="Arduino" /></a>
+<p align="center">
+  <strong>Aspiring Data Scientist</strong> | Python • SQL • Machine Learning • Data Visualization
 </p>
 
+---
 
-### Socials
+## 👨‍💻 Tentang Saya
 
-<p align="left"> <a href="https://www.github.com/Cahyopw15/cahyopras15" target="_blank" rel="noreferrer"> <picture> <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github-dark.svg" /> <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" /> <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" width="32" height="32" /> </picture> </a> <a href="http://www.instagram.com/cahyoprasetiyowibowo" target="_blank" rel="noreferrer"> <picture> <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/instagram-dark.svg" /> <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/instagram.svg" /> <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/instagram.svg" width="32" height="32" /> </picture> </a> <a href="https://www.linkedin.com/in/cahyoprasetiyow" target="_blank" rel="noreferrer"> <picture> <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin-dark.svg" /> <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" /> <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="32" height="32" /> </picture> </a> <a href="http://www.medium.com/@cahyoprasetiyowibowo" target="_blank" rel="noreferrer"> <picture> <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/medium-dark.svg" /> <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/medium.svg" /> <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/medium.svg" width="32" height="32" /> </picture> </a></p>
+Halo! Saya **Cahyo Prasetiyo Wibowo**, seorang pembelajar Data Science yang antusias dalam mengolah data menjadi wawasan yang bermakna.  
+Saya sedang fokus pada analisis data, visualisasi, dan penerapan machine learning pada berbagai permasalahan nyata, termasuk analisis karbon dan lingkungan 🌱.
 
-![Cahyo's Graph](https://github-readme-activity-graph.vercel.app/graph?username=Cahyopw15&custom_title=@Cahyopw15's%20GitHub%20Activity%20Graph&bg_color=0D1117&color=006D31&line=006D31&point=006D31&area_color=006D31&title_color=FFFFFF&area=true)
+---
 
-<div align="center">
-    <a href="https://git.io/streak-stats">
-        <img src="https://streak-stats.demolab.com?user=Cahyopw15&theme=whatsapp-dark2&card_width=830" alt="GitHub Streak" />
-    </a>
-</div>
+## 🧠 Tools & Teknologi
 
-<div align="center">
-    <a href="https://github.com/anuraghazra/github-readme-stats#gh-dark-mode-only">
-        <img height=200 src="https://github-readme-stats.vercel.app/api?username=Cahyopw15&show_icons=true&theme=gotham#gh-dark-mode-only" />
-    </a>
-    <a href="https://github.com/anuraghazra/github-readme-stats#gh-dark-mode-only">
-        <img height=200 src="https://github-readme-stats.vercel.app/api/top-langs/?username=Cahyopw15&layout=compact&langs_count=8&card_width=330&theme=gotham#gh-dark-mode-only" />
-    </a>
-    <a href="https://github.com/anuraghazra/github-readme-stats#gh-light-mode-only">
-        <img height=200 src="https://github-readme-stats.vercel.app/api?username=Cahyopw15&show_icons=true&theme=catppuccin_latte#gh-light-mode-only" />
-    </a>
-    <a href="https://github.com/anuraghazra/github-readme-stats#gh-light-mode-only">
-        <img height=200 src="https://github-readme-stats.vercel.app/api/top-langs/?username=Cahyopw15&layout=compact&langs_count=8&card_width=330&theme=catppuccin_latte#gh-light-mode-only"
-          />
-    </a>
-</div>
+- Python (Pandas, NumPy, Matplotlib, Scikit-learn)
+- SQL (PostgreSQL, MySQL)
+- Jupyter Notebook, Google Colab
+- Tableau, Power BI
+- Git & GitHub
 
-<p align="center"> <img src="https://komarev.com/ghpvc/?username=Cahyopw15&label=Profile%20views&color=006D31&style=flat" alt="codewithwan" /> </p>
+---
 
+## 📁 Daftar Proyek
+
+| No | Proyek | Deskripsi | Link |
+|----|--------|-----------|------|
+| 1 | 🏠 Bank Term Deposits | Analisis eksploratif harga rumah menggunakan seaborn dan matplotlib | [🔗 Lihat Proyek](https://github.com/Cahyopw15/CahyoPrasetiyoWibowo-Project-Portfolio/tree/main/Project%20Data%20Science/Bank) |
+| 2 | 📊 Chronic Condition Prediction | Model klasifikasi churn pelanggan menggunakan Random Forest & Logistic Regression | [🔗 Lihat Proyek](https://github.com/Cahyopw15/CahyoPrasetiyoWibowo-Project-Portfolio/tree/main/Project%20Data%20Science/Chronic%20Condition%20Prediction) |
+| 3 | 🌳 Hotel Booking Predict | Estimasi penyerapan karbon dari taman menggunakan perhitungan biomassa dan BEF | [🔗 Lihat Proyek](https://github.com/Cahyopw15/CahyoPrasetiyoWibowo-Project-Portfolio/tree/main/Project%20Data%20Science/Hotel%20Booking%20Predict) |
+| 4 | 🕵️‍♂️ Monitoring Sound Level Meter | Klasifikasi sentimen tweet menggunakan NLP & TextBlob | [🔗 Lihat Proyek](https://github.com/Cahyopw15/CahyoPrasetiyoWibowo-Project-Portfolio/tree/main/Project%20Data%20Science/Monitoring%20Sound%20Level%20Meter) |
+
+---
+
+## 📊 GitHub Stats
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Cahyopw15&show_icons=true&theme=default" alt="GitHub Stats" />
+</p>
+
+---
+
+## 📬 Hubungi Saya
+
+<p>
+  <a href="mailto:cahyoprasetiyowibowo@gmail.com">
+    <img src="https://img.shields.io/badge/email-cahyoprasetiyowibowo@gmail.com-red?style=flat&logo=gmail" alt="email badge" />
+  </a>
+  <a href="https://linkedin.com/in/cahyopw15">
+    <img src="https://img.shields.io/badge/LinkedIn-Cahyo%20Prasetiyo%20Wibowo-blue?style=flat&logo=linkedin" alt="linkedin badge" />
+  </a>
+</p>
+
+---
+
+<p align="center">
+  Terima kasih sudah melihat portofolio saya 🙌
+</p>
