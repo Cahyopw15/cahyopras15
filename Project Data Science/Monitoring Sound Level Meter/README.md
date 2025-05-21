@@ -68,15 +68,3 @@ The sound level data was collected from a physical sound level meter device capa
 - The analysis helps inform recommendations to improve noise management strategies.
 
 ---
-
-## 🚀 Getting Started
-
-1. **Clone the Repository**:
-   ```bash
-   git clone https://github.com/Cahyopw15/CahyoPrasetiyoWibowo-Project-Portfolio.git
-
-2. ```bash
-   cd CahyoPrasetiyoWibowo-Project-Portfolio/Project Data Science/Monitoring Sound Level Meter
-3. pip install -r requirements.txt
-4. ```bash
-   jupyter notebook app.py
