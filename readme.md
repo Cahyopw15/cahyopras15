@@ -24,7 +24,7 @@ As an aspiring Data Scientist with a strong passion for Python programming, I am
 
 <div align="center">
     <a href="https://github.com/anuraghazra/github-readme-stats#gh-dark-mode-only">
-        <img height=200 src="https://github-readme-stats.vercel.app/api?username=codewithwan&show_icons=true&theme=gotham#gh-dark-mode-only" />
+        <img height=200 src="https://github-readme-stats.vercel.app/api?username=Cahyopw15&show_icons=true&theme=gotham#gh-dark-mode-only" />
     </a>
     <a href="https://github.com/anuraghazra/github-readme-stats#gh-dark-mode-only">
         <img height=200 src="https://github-readme-stats.vercel.app/api/top-langs/?username=Cahyopw15&layout=compact&langs_count=8&hide=jupyter%20notebook&card_width=330&theme=gotham#gh-dark-mode-only" />
