@@ -6,23 +6,22 @@
 
 ---
 
-## 👨‍💻 Tentang Saya
+## 👨‍💻 Abaout Me
 
 Hi! I am Cahyo Prasetiyo Wibowo, a beginner studying Data Science. I am interested in processing data into useful insights, and am currently focusing on learning data analysis, visualization, and applying the basics of machine learning to various real-world problems..
 
 ---
 
-## 🧠 Tools & Teknologi
+## 🧠 Tools & Technology
 
 - Python (Pandas, NumPy, Matplotlib, Scikit-learn)
 - SQL (PostgreSQL, MySQL)
-- Jupyter Notebook, Google Colab
+- Jupyter Notebook, Google Colab, Visual Studio Code
 - Tableau, Power BI
-- Git & GitHub
 
 ---
 
-## 📁 Daftar Proyek
+## 📁 Project List
 
 | No | Project | Description | Link |
 |----|--------|-----------|------|
