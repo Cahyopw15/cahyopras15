@@ -43,3 +43,5 @@ As an aspiring Data Scientist with a strong passion for Python programming, I am
     </a>
 </div>
 
+<p align="center"> <img src="https://komarev.com/ghpvc/?username=Cahyopw15&label=Profile%20views&color=006D31&style=flat" alt="codewithwan" /> </p>
+
