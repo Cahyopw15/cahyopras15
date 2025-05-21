@@ -8,8 +8,7 @@
 
 ## 👨‍💻 Tentang Saya
 
-Halo! Saya **Cahyo Prasetiyo Wibowo**, seorang pembelajar Data Science yang antusias dalam mengolah data menjadi wawasan yang bermakna.  
-Saya sedang fokus pada analisis data, visualisasi, dan penerapan machine learning pada berbagai permasalahan nyata, termasuk analisis karbon dan lingkungan 🌱.
+Hi! I am Cahyo Prasetiyo Wibowo, a beginner studying Data Science. I am interested in processing data into useful insights, and am currently focusing on learning data analysis, visualization, and applying the basics of machine learning to various real-world problems..
 
 ---
 
@@ -42,7 +41,7 @@ Saya sedang fokus pada analisis data, visualisasi, dan penerapan machine learnin
 
 ---
 
-## 📬 Hubungi Saya
+## 📬 Contact me
 
 <p>
   <a href="mailto:cahyoprasetiyowibowo@gmail.com">
@@ -56,5 +55,5 @@ Saya sedang fokus pada analisis data, visualisasi, dan penerapan machine learnin
 ---
 
 <p align="center">
-  Terima kasih sudah melihat portofolio saya 🙌
+  Thank you for viewing my portfolio 🙌
 </p>
