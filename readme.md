@@ -25,12 +25,12 @@ Saya sedang fokus pada analisis data, visualisasi, dan penerapan machine learnin
 
 ## 📁 Daftar Proyek
 
-| No | Proyek | Deskripsi | Link |
+| No | Project | Description | Link |
 |----|--------|-----------|------|
-| 1 | 🏠 Bank Term Deposits | Analisis eksploratif harga rumah menggunakan seaborn dan matplotlib | [🔗 Lihat Proyek](https://github.com/Cahyopw15/CahyoPrasetiyoWibowo-Project-Portfolio/tree/main/Project%20Data%20Science/Bank) |
-| 2 | 📊 Chronic Condition Prediction | Model klasifikasi churn pelanggan menggunakan Random Forest & Logistic Regression | [🔗 Lihat Proyek](https://github.com/Cahyopw15/CahyoPrasetiyoWibowo-Project-Portfolio/tree/main/Project%20Data%20Science/Chronic%20Condition%20Prediction) |
-| 3 | 🌳 Hotel Booking Predict | Estimasi penyerapan karbon dari taman menggunakan perhitungan biomassa dan BEF | [🔗 Lihat Proyek](https://github.com/Cahyopw15/CahyoPrasetiyoWibowo-Project-Portfolio/tree/main/Project%20Data%20Science/Hotel%20Booking%20Predict) |
-| 4 | 🕵️‍♂️ Monitoring Sound Level Meter | Klasifikasi sentimen tweet menggunakan NLP & TextBlob | [🔗 Lihat Proyek](https://github.com/Cahyopw15/CahyoPrasetiyoWibowo-Project-Portfolio/tree/main/Project%20Data%20Science/Monitoring%20Sound%20Level%20Meter) |
+| 1 | 🏠 Bank Term Deposits | This project aims to improve the efficiency of bank telemarketing campaigns by predicting customer subscription to term deposits using classification models. | [🔗 Lihat Proyek](https://github.com/Cahyopw15/CahyoPrasetiyoWibowo-Project-Portfolio/tree/main/Project%20Data%20Science/Bank) |
+| 2 | 📊 Chronic Condition Prediction | This project aims to predict the risk of chronic medical conditions using depression-related indicators. By integrating demographic, lifestyle, and medical history data, the model identifies high-risk individuals to support personalized intervention planning. | [🔗 Lihat Proyek](https://github.com/Cahyopw15/CahyoPrasetiyoWibowo-Project-Portfolio/tree/main/Project%20Data%20Science/Chronic%20Condition%20Prediction) |
+| 3 | 🌳 Hotel Booking Predict | This project predicts hotel booking cancellations by analyzing customer profiles, reservation details, and behavioral patterns. Using machine learning techniques, the model helps hotels anticipate cancellations and make data-driven decisions to improve revenue management and customer retention. | [🔗 Lihat Proyek](https://github.com/Cahyopw15/CahyoPrasetiyoWibowo-Project-Portfolio/tree/main/Project%20Data%20Science/Hotel%20Booking%20Predict) |
+| 4 | 🕵️‍♂️ Monitoring Sound Level Meter | This project monitors and analyzes environmental sound levels using real-time acoustic data. It aims to detect noise patterns, assess pollution, and evaluate impacts on health and comfort in workplace and urban settings. | [🔗 Lihat Proyek](https://github.com/Cahyopw15/CahyoPrasetiyoWibowo-Project-Portfolio/tree/main/Project%20Data%20Science/Monitoring%20Sound%20Level%20Meter) |
 
 ---
 
