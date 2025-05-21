@@ -22,3 +22,19 @@ As an aspiring Data Scientist with a strong passion for Python programming, I am
 ![Cahyo's GitHub stats](https://github-readme-stats.vercel.app/api?username=Cahyopw15&show_icons=true&theme=tokyonight)
 ![Cahyo's Graph](https://github-readme-activity-graph.vercel.app/graph?username=Cahyopw15&custom_title=@Cahyopw15's%20GitHub%20Activity%20Graph&bg_color=0D1117&color=006D31&line=006D31&point=006D31&area_color=006D31&title_color=FFFFFF&area=true)
 
+<div align="center">
+    <a href="https://github.com/anuraghazra/github-readme-stats#gh-dark-mode-only">
+        <img height=200 src="https://github-readme-stats.vercel.app/api?username=codewithwan&show_icons=true&theme=gotham#gh-dark-mode-only" />
+    </a>
+    <a href="https://github.com/anuraghazra/github-readme-stats#gh-dark-mode-only">
+        <img height=200 src="https://github-readme-stats.vercel.app/api/top-langs/?username=Cahyopw15&layout=compact&langs_count=8&hide=jupyter%20notebook&card_width=330&theme=gotham#gh-dark-mode-only" />
+    </a>
+    <a href="https://github.com/anuraghazra/github-readme-stats#gh-light-mode-only">
+        <img height=200 src="https://github-readme-stats.vercel.app/api?username=Cahyopw15&show_icons=true&theme=catppuccin_latte#gh-light-mode-only" />
+    </a>
+    <a href="https://github.com/anuraghazra/github-readme-stats#gh-light-mode-only">
+        <img height=200 src="https://github-readme-stats.vercel.app/api/top-langs/?username=Cahyopw15&layout=compact&langs_count=8&hide=jupyter%20notebook&card_width=330&theme=catppuccin_latte#gh-light-mode-only"
+          />
+    </a>
+</div>
+
