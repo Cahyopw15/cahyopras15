@@ -1,4 +1,4 @@
-<h1 align="center">🚀 Cahyo Prasetiyo Wibowo's Project Portfolio</h1>
+<h1 align="center">Cahyo Prasetiyo Wibowo's Project Portfolio</h1>
 
 <p align="center">
   <strong>Aspiring Data Scientist</strong> | Python • SQL • Machine Learning • Data Visualization
